@@ -1,0 +1,17 @@
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/jpeg/jdatasrc.o: \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jdatasrc.c \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jinclude.h \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jconfig.h \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jpeglib.h \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jmorecfg.h \
+  /home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jerror.h
+
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jinclude.h:
+
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jconfig.h:
+
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jpeglib.h:
+
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jmorecfg.h:
+
+/home/synaption/kivyIPvid/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/jpeg-9b/jerror.h:
