@@ -1,0 +1,27 @@
+Install kivy
+
+$ python -m pip install --upgrade --user pip setuptools virtualenv
+$ python -m virtualenv ~/kivy_venv
+$ source ~/kivy_venv/bin/activate
+$ python -m pip install kivy
+$ python -m pip install kivy_examples
+$ python -m pip install ffpyplayer
+
+kivy examples live in /usr/share/kivy-examples/
+
+Install buildozer
+
+$ git clone https://github.com/kivy/buildozer.git
+$ cd buildozer
+$ sudo python setup.py install
+$ buildozer init
+
+To push a kivy app to your phone run this command from inside your app's folder
+
+$ buildozer android debug deploy run
+ 
+your phone must be pulgged in with a GOOD usb cable
+you have to enable developer mode in the phones settings
+you have to enable usb debugging in the phones settings
+you have to give permission to push the app when you run the command
+the main pytohn file needs to be named main.py
